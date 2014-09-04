@@ -1,8 +1,36 @@
 body {
   background-color: #27ae60;
-  padding-top: 70px;
+  padding-top: 90px;
 }
 
 .navbar-default {
   border-radius: 0px;
+  opacity: 0.85;
+  height: 75px;
+  background: #ecf0f1;
+}
+
+.navbar-nav li a, .navbar-brand {
+  line-height: 50px;
+  font-size: 30px;
+}
+.content {
+  background-color:
+}
+
+.navbar-fixed-top {
+  border-width: 0 0 0px;
+}
+
+.page-group {
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 75%;
+  opacity: 0.85;
+  background-color: #ecf0f1;
 }
