@@ -1,0 +1,13 @@
+---
+layout: blog
+---
+<div class="page-group">
+  <h3>{{ page.title }}</h3>
+  <p class="post-about">
+    {{ page.author }},
+    <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%e %b %Y" }}</time>
+  </p>
+  <div class="post-content">
+    {{ content }}
+  </div><!-- /.post-content -->
+</div><!-- /.content -->

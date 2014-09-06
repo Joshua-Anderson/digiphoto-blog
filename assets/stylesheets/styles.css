@@ -1,5 +1,9 @@
 body {
-  background-color: #27ae60;
+  background-image: url("/assets/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
   padding-top: 90px;
 }
 
@@ -13,9 +17,6 @@ body {
 .navbar-nav li a, .navbar-brand {
   line-height: 50px;
   font-size: 30px;
-}
-.content {
-  background-color:
 }
 
 .navbar-fixed-top {
