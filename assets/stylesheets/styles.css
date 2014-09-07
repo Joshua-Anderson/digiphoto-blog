@@ -15,13 +15,17 @@ body {
 .navbar-default {
   border-radius: 0px;
   opacity: 0.85;
-  height: 75px;
+  min-height: 75px;
   background: #ecf0f1;
+}
+
+.navbar-toggle {
+  margin-top: 20px;
 }
 
 .navbar-nav li a, .navbar-brand {
   line-height: 50px;
-  font-size: 30px;
+  font-size: 27px;
 }
 
 .navbar-fixed-top {
@@ -39,4 +43,34 @@ body {
   width: 75%;
   opacity: 0.85;
   background-color: #ecf0f1;
+}
+
+.about-message {
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 12px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 75%;
+  opacity: 0.85;
+  background-color: #ecf0f1;
+  font-size: 17px;
+}
+.page-group h3 a:link, .page-group h3 a:visited {
+  color: black;
+}
+
+.post-content {
+  padding-top: 10px;
+}
+
+.post-about {
+  font-size: 12px;
+  color: grey;
+}
+
+.active {
+  background: #bdc3c7;
 }
