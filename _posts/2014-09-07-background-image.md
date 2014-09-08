@@ -7,6 +7,7 @@ layout: post
 ---
 
 As my first post on my blog, here is the image I chose to be my background image.
+It was taken behind the library at my high school.
 
 <img class="post-image" src="/images/2014/09/background.jpg" alt="">
 
