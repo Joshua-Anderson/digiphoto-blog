@@ -14,9 +14,8 @@ body {
 
 .navbar-default {
   border-radius: 0px;
-  opacity: 0.85;
   min-height: 75px;
-  background: #ecf0f1;
+  background: rgba(236, 240, 240, .85);
 }
 
 .navbar-toggle {
@@ -41,8 +40,7 @@ body {
   padding-left: 20px;
   padding-right: 20px;
   width: 75%;
-  opacity: 0.85;
-  background-color: #ecf0f1;
+  background-color: rgba(236, 240, 240, .85);
 }
 
 .about-message {
@@ -54,8 +52,7 @@ body {
   padding-left: 20px;
   padding-right: 20px;
   width: 75%;
-  opacity: 0.85;
-  background-color: #ecf0f1;
+  background-color: rgba(236, 240, 240, .85);
   font-size: 17px;
 }
 .page-group h3 a:link, .page-group h3 a:visited {
@@ -72,5 +69,11 @@ body {
 }
 
 .active {
-  background: #bdc3c7;
+  background: rgba(189, 195, 199, .85);
+}
+
+.post-image {
+  max-height:100%;
+  max-width:100%;
+  background-color: rgba(236, 240, 240);
 }

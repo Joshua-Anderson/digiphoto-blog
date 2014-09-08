@@ -17,7 +17,7 @@ You can contact me at [j@joshua-anderson.com](mailto:j@joshua-anderson.com).
 
 # Site Design
 
-This site is built with [jekyll](http://jekyllrb.com/) and hosted with [GitHub Pages](https://pages.github.com/)
+This site is built with [jekyll](http://jekyllrb.com/) and hosted with [GitHub Pages](https://pages.github.com/).
 
 This site uses [the bootstrap css framework](http://getbootstrap.com/) and [jQuery](https://jquery.com/).
 The icons on this site are part of [glyphicons](https://glyphicons.com/).
