@@ -5,7 +5,8 @@ layout: blog
   <h3>{{ page.title }}</h3>
   <p class="post-about">
     {{ page.author }},
-    <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%e %b %Y" }}</time>
+    <time datetime="{{ page.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ page.created_at | date: "%e %b %Y" }}</time></br>
+    In: <a href="/categories/{{ page.categories }}"> {{ page.categories }} </a>
   </p>
   <div class="post-content">
     {{ content }}

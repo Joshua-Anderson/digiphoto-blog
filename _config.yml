@@ -2,3 +2,4 @@ exclude: [bin, CNAME, Gemfile, Gemfile.lock, README.md]
 safe: true
 paginate: 5
 url: "http://photography.joshua-anderson.com/"
+permalink: /:categories/:title

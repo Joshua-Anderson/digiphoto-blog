@@ -1,6 +1,5 @@
 ---
 title: Background Image
-permalink: 2014-09-07-background-image
 author: Joshua Anderson
 created_at: Sun 7 Sep 2014 0:00:00 PST
 layout: post
