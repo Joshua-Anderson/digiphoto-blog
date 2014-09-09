@@ -15,7 +15,7 @@ body {
 .navbar-default {
   border-radius: 0px;
   min-height: 75px;
-  background: rgba(236, 240, 240, .85);
+  background: rgba(236, 240, 240, .95);
 }
 
 .navbar-toggle {
@@ -79,14 +79,22 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
-    background-color: #95a5a6;
+  background-color: rgba(149, 165, 166, 0.95);
 }
 
-.navbar-nav>li>.dropdown-menu {
+.dropdown-menu {
   border-radius: 0px;
   min-width: 171px;
   min-height: 75px;
-  background: rgba(236, 240, 240, .85);
+  background: rgba(236, 240, 240, .95);
+}
+
+.dropdown-menu > li:hover a {
+  background: rgba(149, 165, 166, 0.95);
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
 }
 
 @media (max-width: 412px) {
