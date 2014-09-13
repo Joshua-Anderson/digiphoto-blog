@@ -1,5 +1,5 @@
 ---
-title: Background Image
+title: Photography Inspiration
 author: Joshua Anderson
 created_at: Fri 11 Sep 2014 0:00:00 PST
 layout: post
