@@ -76,6 +76,8 @@ body {
   height:100%;
   width:100%;
   background-color: rgba(236, 240, 240);
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
