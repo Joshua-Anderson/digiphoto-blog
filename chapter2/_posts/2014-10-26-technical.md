@@ -22,4 +22,5 @@ Before:
 <img class="post-image" src="https://s3.amazonaws.com/xatigo/tenis-before.jpg" alt="">
 
 After:
+
 <img class="post-image" src="https://s3.amazonaws.com/xatigo/tenis-after.jpg" alt="">
