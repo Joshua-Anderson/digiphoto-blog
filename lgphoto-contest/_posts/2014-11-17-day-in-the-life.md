@@ -6,3 +6,5 @@ layout: post
 ---
 
 Here are my rough draft of my day in the life pictures.
+
+<img class="post-image" src="https://s3.amazonaws.com/xatigo/day-in-the-life.jpg" alt="">
