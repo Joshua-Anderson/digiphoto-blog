@@ -5,11 +5,11 @@ created_at: Fri 21 Nov 2014 0:00:00 PST
 layout: post
 ---
 
-Over the past few month, I have grown quite a bit as a photographer. These are  few of the pictuer I think show my growth as a photographer.
+Over the past few month, I have grown quite a bit as a photographer. These are few of the pictures I think show my growth as a photographer.
 
 <img class="post-image" src="https://s3.amazonaws.com/xatigo/tree.jpg" alt="">
 
-I think that this picture demonstrates my ability to use depth of field to get an artistic efect. It also demonstareates good framing with the sharp tree ading contrast to the blury background.
+I think that this picture demonstrates my ability to use depth of field to get an artistic efect. It also demonstrates good framing with the sharp tree ading contrast to the blury background.
 
 <img class="post-image" src="https://s3.amazonaws.com/xatigo/snow.jpg" alt="">
 
