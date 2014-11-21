@@ -5,4 +5,14 @@ created_at: Fri 21 Nov 2014 0:00:00 PST
 layout: post
 ---
 
-This is my technical section.
+I used the lomo action to edit this flower picture I took.
+
+Before lomo action:
+
+<img class="post-image" src="https://s3.amazonaws.com/xatigo/action-before.jpg" alt="">
+
+After lomo action:
+
+<img class="post-image" src="https://s3.amazonaws.com/xatigo/action-after.jpg" alt="">
+
+The lomo action gave my picture a much more interesting color set to look at.
