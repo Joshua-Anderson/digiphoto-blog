@@ -5,7 +5,7 @@ created_at: Wed 04 Dec 2014 0:00:00 PST
 layout: post
 ---
 
-Here are my top three pictures for my LG Photo Contest.
+Here are my top three pictures for the LG Photo Contest.
 
 <img class="post-image" src="https://s3.amazonaws.com/xatigo/landscape-road.jpg" alt="">
 
