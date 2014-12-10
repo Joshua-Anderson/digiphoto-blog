@@ -5,7 +5,7 @@ created_at: Fri 21 Nov 2014 0:00:00 PST
 layout: post
 ---
 
-Over the past few month, I have grown quite a bit as a photographer. These are few of the pictures I think show my growth as a photographer.
+Over the past few months, I have grown quite a bit as a photographer. These are few of the pictures I think show my growth as a photographer.
 
 <img class="post-image" src="https://s3.amazonaws.com/xatigo/tree.jpg" alt="">
 
