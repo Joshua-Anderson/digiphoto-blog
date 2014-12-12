@@ -7,13 +7,13 @@ layout: post
 
 This month, I was inspired by the photographer Michael Kenna.
 
-These are some of my favorite by Michael Kenna:
+These are some of my favorite pictures by Michael Kenna:
 
 <img class="post-image" src="http://www.michaelkenna.net/gallery_images/0f02370.jpg" alt="">
 
 I liked the picture becuase the exciting sky contrasted nicely with the sand dunes.
 
-http://indianquarterly.com/wp-content/uploads/2014/02/MK08JA35-Torii-Gate-Shosanbetsu-Hokkaido-Japan-2004.jpg
+<img class="post-image" src="http://indianquarterly.com/wp-content/uploads/2014/02/MK08JA35-Torii-Gate-Shosanbetsu-Hokkaido-Japan-2004.jpg" alt="">
 
 I liked this picture becuase of the simplistic but interesting nature of the torri gate blending with the ground and the background.
 
