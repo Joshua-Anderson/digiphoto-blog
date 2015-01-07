@@ -1,0 +1,22 @@
+---
+layout: blog
+permalink: /categories/chapter4/
+title: "Chapter 4"
+---
+<div class="articles">
+  {% for post in site.categories['chapter4'] %}
+    <div class="page-group">
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h3>
+      <p class="post-about">
+        {{ post.author }},
+        <time datetime="{{ post.created_at | date: "%Y-%m-%dT%H:%M:%S%z"  }}">{{ post.created_at | date: "%e %b %Y" }}</time></br>
+        In: <a href="/categories/{{ post.categories }}"> {{ post.categories }} </a>
+      </p>
+      <div class="post-content">
+        {{ post.content }}
+      </div><!-- /.post-content -->
+    </div><!-- /.page-group -->
+  {% endfor %}
+</div><!-- /.articles -->
