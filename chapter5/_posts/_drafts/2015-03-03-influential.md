@@ -6,3 +6,5 @@ layout: post
 ---
 
 I chose [Steve Bond](https://www.flickr.com/photos/stevebond) for my influential photographer this month.
+
+<img class="post-image" src="https://s3.amazonaws.com/xatigo/influential-sheet.jpg" alt="">
