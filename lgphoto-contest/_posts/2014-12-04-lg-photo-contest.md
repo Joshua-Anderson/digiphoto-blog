@@ -7,8 +7,8 @@ layout: post
 
 Here are my top three pictures for the LG Photo Contest.
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/landscape-road.jpg" alt="">
+<img class="post-image" src="/images/landscape-road.jpg" alt="">
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/old-car.jpg" alt="">
+<img class="post-image" src="/images/old-car.jpg" alt="">
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/bike.jpg" alt="">
+<img class="post-image" src="/images/bike.jpg" alt="">

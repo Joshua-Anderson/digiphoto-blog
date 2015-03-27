@@ -7,4 +7,4 @@ layout: post
 
 Here are my rough drafts of my day in the life pictures.
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/day-in-the-life.jpg" alt="">
+<img class="post-image" src="/images/day-in-the-life.jpg" alt="">

@@ -19,4 +19,4 @@ I liked this picture becuase of the simplistic but interesting nature of the tor
 
 This is a picture that I took in the style of Michael Kenna:
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/sand-dune.jpg" alt="">
+<img class="post-image" src="/images/sand-dune.jpg" alt="">

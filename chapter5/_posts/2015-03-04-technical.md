@@ -7,20 +7,20 @@ layout: post
 
 Before:
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/paperclips-before.jpg" alt="">
+<img class="post-image" src="/images/paperclips-before.jpg" alt="">
 
 After:
 
 I changed the brightness of the picutre and cleaned up artifacts in the picture.
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/paperclips-after.jpg" alt="">
+<img class="post-image" src="/images/paperclips-after.jpg" alt="">
 
 Before:
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/watery-before.jpg" alt="">
+<img class="post-image" src="/images/watery-before.jpg" alt="">
 
 After:
 
 I cropped and changed the contrast, clarity, and vibrance of the picture.
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/watery-after.jpg" alt="">
+<img class="post-image" src="/images/watery-after.jpg" alt="">

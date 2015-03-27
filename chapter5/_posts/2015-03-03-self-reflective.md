@@ -7,12 +7,12 @@ layout: post
 
 Symetrical Balance:
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/sym-1.jpg" alt="">
+<img class="post-image" src="/images/sym-1.jpg" alt="">
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/sym-2.jpg" alt="">
+<img class="post-image" src="/images/sym-2.jpg" alt="">
 
 Asymetrical Balance:
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/asym-1.jpg" alt="">
+<img class="post-image" src="/images/asym-1.jpg" alt="">
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/asym-2.jpg" alt="">
+<img class="post-image" src="/images/asym-2.jpg" alt="">

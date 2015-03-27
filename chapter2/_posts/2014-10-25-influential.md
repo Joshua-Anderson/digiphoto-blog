@@ -13,4 +13,4 @@ She took an amazing photo of her kitten. I really was inspired by the framing, d
 
 Repliating her style, I tried to take my own picture of my cat. I think I was successful in replicating her style, but I believe that her photo came out a little bit better.
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/cat.jpg" alt="">
+<img class="post-image" src="/images/cat.jpg" alt="">

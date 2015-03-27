@@ -7,6 +7,6 @@ layout: post
 
 Of all the elements of art, I think that leading lines have been the most influential. You can seen leading lines in much of my work.
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/elements-of-art.jpg" alt="">
+<img class="post-image" src="/images/elements-of-art.jpg" alt="">
 
-<img class="post-image" src="https://s3.amazonaws.com/xatigo/leading-lines.jpg" alt="">
+<img class="post-image" src="/images/leading-lines.jpg" alt="">

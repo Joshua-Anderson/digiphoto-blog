@@ -7,7 +7,7 @@
 -
 -For my Chapter 1 theme I chose colors of summer. These of some of the summery colors that I see around my backyard.
 -
--<img class="post-image" src="https://s3.amazonaws.com/xatigo/colors-of-summer.jpg" alt="">
+-<img class="post-image" src="/images/colors-of-summer.jpg" alt="">
 -
 -My favorite image is the picture of my patio chair, which is below.
 -
